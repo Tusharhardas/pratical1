@@ -1,1 +1,1 @@
-# pratical1
+print("hello")
